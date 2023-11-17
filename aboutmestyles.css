@@ -1,0 +1,11 @@
+body {
+    background: hsl(0, 77%, 73%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+ 
+ .img {
+    width: 50%;
+    border-radius: 50%;
+ }
